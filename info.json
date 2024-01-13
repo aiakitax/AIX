@@ -1,0 +1,15 @@
+    {
+      "chainId": 101,
+      "address": "7P9Kir1hij7EZ7aK6m3bgGz1j7LyVrbhYohA2eRrLZdY",
+      "symbol": "AiX",
+      "name": "AiAkitaX",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/aiakitax/AIX/main/Logo.png",
+      "tags": [
+        "game-coin""game-currency""game"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/AiAkita_dog",
+        "website": "https://AiAkita.dog/"
+      }
+    }
